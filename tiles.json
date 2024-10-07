@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "tiles.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 20,
+				"h": 10
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "floor-stone",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 8,
+						"h": 8
+					}
+				},
+				{
+					"filename": "floor-wood",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 8,
+						"h": 8
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 8,
+						"h": 8
+					},
+					"frame": {
+						"x": 11,
+						"y": 1,
+						"w": 8,
+						"h": 8
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:182ad5b907e9de204ea1bb722577835d:6683c8fb5c8437d2e3a057d6b1d7befa:accbe1e7e294ded8391337fc1c446319$"
+	}
+}
